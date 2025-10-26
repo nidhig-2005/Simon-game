@@ -1,16 +1,10 @@
 let gameseq=[];
 let userseq=[];
-
 let btns=["yellow","red","blue","green"];
-
 let started=false;
-
 let level=0;
-
 let h2=document.querySelector("h2");
 let startbtn=document.getElementById("startbtn");
-
-
 
 startbtn.addEventListener("click",function(){
     if (started==false){
