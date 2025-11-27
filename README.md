@@ -21,6 +21,11 @@ Repeat the pattern by clicking the buttons in order.
 Each level adds one more colour to the sequence.
 If you press the wrong button — Game Over!
 
+Screen Recording-
+https://github.com/user-attachments/assets/634f67b7-6c6e-4c3c-98ff-2603af590037
+
 Contributions:
 Pull requests are welcome!
 Feel free to suggest new features or improvements.
+
+
